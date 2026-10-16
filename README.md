@@ -59,6 +59,19 @@ Os modelos não são determinísticos: o ataque do Cenário 3 depende do modelo 
 
 Os nomes de produtos e as versões refletem o estado em **16/10/2026** e mudam rápido.
 
+## Licença e atribuição
+
+O uso é livre, **desde que o trabalho original seja citado**.
+
+| O quê | Licença | Como citar |
+|---|---|---|
+| Código (`demo/`) | [Apache-2.0](LICENSE) | manter o arquivo [NOTICE](NOTICE) e os avisos de copyright nas cópias e obras derivadas |
+| Slides e textos (PDF, README, notebook em prosa) | [CC BY 4.0](LICENSE-CONTEUDO) | dar crédito, indicar se houve alterações e linkar para este repositório |
+
+Sugestão de citação: *Ahirton Lopes, "AI Agents na Vida Real: Arquiteturas, Segurança e Por Onde Começar", 23º Latinoware, 2026. https://github.com/ahirtonlopes/latinoware-2026*
+
+O case da Cooperativa Grão Tríplice e todos os dados são fictícios.
+
 ---
 
 **Ahirton Lopes, PhD** · [github.com/ahirtonlopes](https://github.com/ahirtonlopes)
